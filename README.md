@@ -36,7 +36,12 @@ Currently, I’m exploring different technologies and working on practice projec
 
 ### 📊 GitHub Stats:
 
-![Idris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idris-Nasser&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idris-Nasser&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Idris-Nasser&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idris-Nasser&hide_border=true&theme=tokyonight" height="180"/>
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Idris-Nasser.Idris-Nasser)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idris-Nasser&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
+</p>
+
