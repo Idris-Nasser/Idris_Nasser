@@ -7,18 +7,30 @@ Currently, I’m exploring different technologies and working on practice projec
 - 🔭 My main focus right now is improving my skills in **JavaScript** and **Python** as a beginner  
 - 👯 I’m looking forward to collaborating on beginner-friendly open-source projects in the future  
 - 💬 Ask me about my learning journey or share resources that can help beginners like me grow 🙌  
-- 📫 How to reach me: [Email](mailto:idrisnasser222@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-nasser)  
 - ⚡ Fun fact: I enjoy experimenting with small projects and seeing my code come to life ✨  
 
 ---
 
-### 🛠️ Languages I’m Learning:
+### 🖥️ Programming Languages:
 
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+
+---
+
+### 🌐 Web Development:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+
+---
+
+### 📫 Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Idris-Nasser)
 
 ---
 
